@@ -85,6 +85,8 @@ No. Each team designs its own loop, so the best source for your loop is your rec
 - Free article: [Apple ICT levels](https://www.designgurus.io/blog/apple-ict-levels?utm_source=github&utm_medium=repo&utm_campaign=apple-interview-guide&utm_content=readme), with each level from ICT2 to ICT6 explained.
 - Sibling free guides: [Apple levels](https://github.com/design-gurus/software-engineer-levels/blob/main/companies/apple.md), [Apple system design](https://github.com/design-gurus/grokking-system-design/blob/main/companies/apple.md), and [mobile system design interview](https://github.com/design-gurus/mobile-system-design-interview).
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections and additions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
